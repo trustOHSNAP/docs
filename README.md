@@ -125,6 +125,9 @@ https://www.noisebridge.net/wiki/OHSNAP
 - https://calomel.org/pfstat.html
   - https://calomel.org/rrdtool.html
 - https://github.com/sonertari/PFFW (PHP-based, actively maintained)
+  - pf config handled by [PFRE](https://github.com/sonertari/PFRE)
+  - "Full-featured" version with IPS/IDS, etc
+    [UTMFW](https://github.com/sonertari/UTMFW)
 - https://github.com/ntop/ntopng/blob/dev/doc/README.OpenBSD
 - https://github.com/nahun/pfweb
   - Seems not maintained, but using
