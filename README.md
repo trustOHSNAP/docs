@@ -1,4 +1,4 @@
-# OHSNAP-Documentation
+# OHSNAP Software/Network Configuration Documentation
 
 Internal documentation for the OHSNAP project.
 
