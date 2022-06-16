@@ -4,6 +4,6 @@ Internal documentation for the OHSNAP project.
 
 See also https://www.noisebridge.net/wiki/OHSNAP
 
-## Software/Network Configuration Documentation
+## Resources, Links, and Research Topics
 
-[Research](./Research.md)
+[Software/Network Configuration](./Software_and_Networking.md)
